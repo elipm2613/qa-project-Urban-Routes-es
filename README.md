@@ -67,5 +67,6 @@ Desde PyCharm puedes hacer clic derecho sobre `main.py` y seleccionar **"Run 'py
 * **Selenium WebDriver**
 * **Pytest**
 * **WebDriverWait**
+* **Page Object Model**
 
 ---
